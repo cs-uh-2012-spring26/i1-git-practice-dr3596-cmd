@@ -6,4 +6,5 @@
 
 >With these weblinks, definitions and statistics to explain how each new development works, the article is a good start to learn more of the innovations done in the software world and figure out what is stll missing for further inventions.
 
-
+# Proof Reading 
+> Article checked for typos
