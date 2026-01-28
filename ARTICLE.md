@@ -13,3 +13,10 @@
 # Comments
  *By __Nelson mbigili__*  
 This is an interesting read, Raisa! With the growing impact of AI, I believe that understanding and mastering the fundamentals will remain critical in software engineering. Personally, I see greater potential in cybersecurity now more than ever
+
+<!-- Do not change anything below this line -->
+## Commenting Template
+Future reviewers are invited to participate; please ensure you follow this template.
+
+ *By __Your Name__*  
+Your comment (Can be anything!!)
