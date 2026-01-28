@@ -16,7 +16,7 @@ This is an interesting read, Raisa! With the growing impact of AI, I believe tha
 
 <!-- Do not change anything below this line -->
 ## Commenting Template
-Future reviwers are invited, justbbe sure to follow this template
+Future reviewers are invited to participate; please ensure you follow this template.
 
  *By __Your Name__*  
 Your comment (Can be anything!!)
